@@ -533,7 +533,6 @@ function onOpen() {
       .addItem('🛠️ Initialize Setup', 'initializeSetup')
       .addSeparator()
       .addItem('▶ Run / Next Round', 'runTournament')
-      .addItem('🏆 Show Podium (Force)', 'forceShowPodium')
       .addSeparator()
       .addItem('❌ Reset Whole Tournament', 'resetWholeTournament')
       .addToUi();

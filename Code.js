@@ -594,7 +594,7 @@ function initializeSetup() {
     const headerRange = checkinSheet.getRange("A1:C1");
     headerRange.setFontWeight("bold").setBackground("#1F3A4D").setFontColor("white");
     checkinSheet.setFrozenRows(1);
-    checkinSheet.autoResizeColumns(1, 2);
+    checkinSheet.autoResizeColumns(1, 3);
   }
   
   // 3. Delete 'Sheet1' if it exists and is empty

@@ -13,6 +13,14 @@ This project provides a fully automated **Double-Elimination Bracket** system bu
 
 This is designed to be completely free, requiring no special software downloads—just a Google account.
 
+## Features
+*   **Free Pinewood Derby Software:** No subscriptions, no software to install, runs entirely in the cloud.
+*   **Automated Racing Bracket:** Automatically generates random heats based on your specific track size (supports 2, 3, 4, 5, 6+ lanes).
+*   **Double-Elimination System:** Ensures fairness by giving every racer at least two chances to race before being eliminated.
+*   **Live Check-in System:** Built-in tools for tracking car inspection and registration on race day.
+*   **Interactive Podium:** Generates a visually appealing, auto-calculated final podium for your winners.
+*   **Open Source:** Built on Google Apps Script, meaning you can view, tweak, and customize the code to fit your exact pack or den rules.
+
 ---
 
 ## How It Works
